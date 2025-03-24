@@ -71,6 +71,8 @@ Die API wurde so entwickelt, dass sie leicht auf Plattformen wie **PythonAnywher
 3. Konfiguriere die Webanwendung im Dashboard und starte sie.
 4. Deine API ist dann unter `https://deinname.pythonanywhere.com/api/waste_baskets` erreichbar.
 
+   PS: You can use Render too...
+
 ## Projektstruktur
 ```
 cologne-waste-baskets-api/
@@ -130,3 +132,5 @@ Hast du Fragen oder Vorschläge? Kontaktiere mich über [deine-email@example.com
    ```
 
 Jetzt hast du ein professionelles GitHub-Projekt! Wenn du weitere Anpassungen möchtest (z. B. Badges, Screenshots), lass es mich wissen.
+
+Here is a test deploymen: https://cologne-muelleimer-api.onrender.com/api/waste_baskets
